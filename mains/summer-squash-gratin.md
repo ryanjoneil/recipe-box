@@ -1,35 +1,40 @@
 #Summer Squash Gratin with Salsa Verde
-https://smittenkitchen.com/2014/07/summer-squash-gratin-with-salsa-verde/
+https://food52.com/recipes/12430-summer-squash-gratin-with-salsa-verde-and-gruyere
 
 ##Ingredients
 
 ####Gratin
 - 2 pounds summer squash
-- Salt
-- 1 1/2 cup fresh breadcrumbs
-- 3 tablespoons unsalted butter
-- 3/4 cup thinly sliced shallots (from 4 to 5 medium)
-- 1 cup grated gruyere cheese
-- 1/4 cup salsa verde (below)
-- Freshly ground black pepper
+- 1 1/2	cups fresh coarse breadcrumbs
+- 3	tablespoons unsalted butter
+- 3/4 cup sliced shallot
+- 1	teaspoon minced garlic
+- 1	tablespoon thyme leaves
+- 1	New Mexico chile or jalapeno, seeded and finely chopped
+- 1	cup grated Gruyere cheese
+- Kosher salt and freshly ground black pepper
 
 ####Salsa verde
-- 1 tablespoon thyme leaves
-- 1 teaspoon marjoram or oregano leaves (or half, if dried)
-- 1/4 cup coarsely chopped mint leaves
-- 1 cup coarsely chopped flat-leaf parsley
-- 2 small cloves garlic
-- 1 salt-packed anchovy, rinsed and bones removed
-- 1 tablespoon capers, drained (and rinsed, too, if salt-packed)
-- 1/2 cup olive oil
-- 1/2 lemon, or more to taste
+- 1 teaspoon fresh marjoram or oregano leaves (1/2 teaspoon dried)
+- 1/4 cup coarsely chopped mint
+- 1	cup coarsely chopped flat-leaf parsley
+- 3/4 cup extra-virgin olive oil
+- 1	small clove garlic
+- 1	anchovy
+- 1	tablespoon capers, drained (rinsed if salt-packed)
+- 1/2 lemon, for juicing
+- Freshly ground black pepper
 
 ##Directions
 
-1. Heat your oven to 400°F. Cut the squash into thin (1/8-inch thick) coins. Toss with 1 teaspoon kosher salt and set aside for at least 10 minutes. Drain zucchini in a colander, and if you have time, spread them on a towel for a few minutes to further wick away moisture before placing it in a large mixing bowl.
+1. Make the salsa verde. Using a mortar and pestle (or a food processor, I won't tell anyone), pound the herbs to a paste. You may have to do this in batches. Work in some of the olive oil, and transfer the mixture to a bowl. Pound the garlic and anchovy, and add them to the herbs. 
 
-2. Meanwhile, place breadcrumbs in a small bowl. In a small skillet or saucepan, melt butter and keep cooking it over medium heat until it browns and smells nutty. Carefully pour (in a small drizzle at first) over breadcrumbs and be sure to scrape out any brown bits from the pot. Toss crumbs to evenly coat.
+2. Gently pound the capers until they're partially crushed, and add them to the herbs. Stir in the remaining oil, a pinch of black pepper, and a squeeze of lemon juice. Taste for balance and seasoning. 
 
-3. Make the salsa verde by blending the herbs in a food processor or blender with garlic, anchovy and capers until it forms a paste, scraping down as needed. With the machine running, stream in the olive oil in a drizzle. Season with salt and black pepper. Add lemon juice to taste.
+3. Make the gratin. Heat the oven to 400 degrees. Cut the squash into 1/8-inch-thick slices. Toss the slices in a large bowl with 1 teaspoon kosher salt, and let sit 10 minutes. 
 
-4. Add shallots, gruyere, half the breadcrumbs, 1/4 cup salsa verde (about half; you can use the rest to dress eggs or any roasted meat) and some freshly ground black pepper to the bowl with the summer squash and toss. Transfer to a 9×9-inch (or equivalent; I used a 9-inch round cast-iron skillet) baking dish. Scatter remaining breadcrumbs over the top and bake 35 to 40 minutes, until the squash is tender and the crumbs are crisp.
+4. Place the breadcrumbs in a bowl. Heat a small saute pan over medium heat for 1 minute. Swirl in the butter and cook for a few minutes, until it browns and smells nutty. Pour the brown butter over the breadcrumbs (being sure to scrape all the brown bits into the bowl with a rubber spatula). Wait a minute or so for the butter to cool, and toss well. 
+
+5. Drain the squash and transfer it to a large mixing bowl. Add the shallots, minced garlic, thyme, chile, 1/2 cup salsa verde, and some pepper. Toss to combine, and add the cheese and half the butter-coated breadcrumbs. Toss again, and taste for seasoning. (The raw garlic will taste strong at this point but will be delicious when cooked.) 
+
+6. Place the squash in a pretty 9-by-9-inch (or equivalent) gratin dish (I used a skillet). Scatter the remaining breadcrumbs over the top, and bake 35 to 40 minutes, until the squash is tender and the top is crisp.
