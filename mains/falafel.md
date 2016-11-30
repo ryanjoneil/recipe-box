@@ -1,4 +1,4 @@
-#Easy, Herb-Packed Falafel Recipe
+#Easy, Herb-Packed Falafel
 http://www.seriouseats.com/recipes/2016/03/the-food-lab-vegan-experience-best-homemade-falafel-recipe.html
 
 ##Ingredients
