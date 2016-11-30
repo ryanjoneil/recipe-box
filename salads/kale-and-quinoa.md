@@ -2,6 +2,7 @@
 https://smittenkitchen.com/2014/03/kale-and-quinoa-salad-with-ricotta-salata/
 
 ##Ingredients
+
 ####Salad
 - 1/2 cup uncooked quinoa (or 1 1/2 cups cooked)
 - 8 ounces Black Kale, also known as Cavolo Nero, or Lacinato, Dinosaur, or Tuscan Kale

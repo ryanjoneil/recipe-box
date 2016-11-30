@@ -15,7 +15,6 @@ http://www.seriouseats.com/recipes/2016/03/the-food-lab-vegan-experience-best-ho
 
 ##Directions
 
-
 1. Rinse chickpeas and place in a large bowl. Cover with cold water, adding enough to allow the chickpeas to at least triple in volume. Cover and let stand at room temperature overnight. The next day, drain, rinse, and carefully dry chickpeas in a salad spinner.
 
 2. Combine chickpeas, herbs, scallions, garlic, cumin, coriander, and salt in the work bowl of a food processor. Pulse until chickpeas are very finely minced, stopping the food processor to scrape down the sides as necessary. A handful of the mixture squeezed into a ball should be able to barely hold together. If not, process a little more.
