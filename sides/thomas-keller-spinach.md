@@ -11,7 +11,7 @@ http://www.food.com/recipe/bouchons-saut-ed-spinach-with-garlic-confit-375411
 - 1 lb spinach (preferably baby spinach, or 2 10-ounce bags)
 - 3 tablespoons unsalted butter
 - 1⁄4 cup shallot, minced
-- 8 garlic cloves, confit
+- 8 cloves of garlic confit
 - kosher salt
 - fresh ground black pepper
 
