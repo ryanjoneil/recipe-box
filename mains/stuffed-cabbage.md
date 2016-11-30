@@ -2,6 +2,7 @@
 https://smittenkitchen.com/2013/02/italian-stuffed-cabbage/
 
 ##Ingredients
+
 - 1 large savoy cabbage
 - 7-ounce (200-gram) hunk of bread (see above), crusts cut away, torn into small scraps (you’ll have about 3 loose cups of scraps)
 - 2/3 cup (approximately 150 ml) whole milk
