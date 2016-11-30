@@ -12,7 +12,7 @@ http://www.lottieanddoof.com/2013/08/hoosier-mama/
 - 1 large egg
 - 1 teaspoon vanilla paste (feel free to sub extract)
 
-####Walnut Struesel
+####Walnut Streusel
 - 1 cup all-purpose flour
 - 3/4 cup finely chopped walnuts
 - 1/2 cup granulated sugar
@@ -23,7 +23,7 @@ http://www.lottieanddoof.com/2013/08/hoosier-mama/
 
 ##Directions
 
-####Walnut Struesel
+####Walnut Streusel
 1. Combine the flour, walnuts, granulated sugar, brown sugar, cinnamon, and salt in a medium bowl.
 
 2. Pour in the melted butter and mix with your fingers (or a fork) until the mixture resembles coarse meal.
