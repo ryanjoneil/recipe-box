@@ -14,10 +14,10 @@
 
 ##Alternatives
 
-### Boulevardier
+###Boulevardier
 
 Substitute bourbon or rye for gin.
 
-### Mezcal Negroni
+###Mezcal Negroni
 
-Substitute mezcal for gin.
+Substitute mezcal for gin. Prefer Punt e Mes for the vermouth.
