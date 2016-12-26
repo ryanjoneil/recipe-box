@@ -3,29 +3,30 @@ http://www.seriouseats.com/recipes/2014/12/the-best-slow-cooked-bolognese-sauce-
 
 ##Ingredients
 
-1 quart homemade chicken stock
-4 packets powdered gelatin
-1 (28-ounce) can whole peeled tomatoes, preferably San Marzano
-3 tablespoons tomato paste
-1/4 cup extra-virgin olive oil
-1 pound ground beef chuck (about 20% fat)
-1 pound ground pork shoulder (about 20% fat)
-1 pound ground lamb shoulder (about 20% fat) (or extra pound beef)
-Kosher salt and freshly ground black pepper
-4 tablespoons unsalted butter
-1/2 pound finely diced pancetta
-1 large onion, finely minced (about 1 1/2 cups)
-2 carrots, finely chopped (about 1 cup)
-4 stalks celery, finely chopped (about 1 cup)
-4 medium cloves garlic, minced (about 4 teaspoons)
-1/4 cup minced fresh sage leaves
-1/2 cup minced fresh parsley leaves
-2 cups dry white or red wine
-2 cups whole milk
-2 bay leaves
-1/4 cup heavy cream
-3 ounces finely grated Parmesan cheese
-1 to 2 tablespoons Vietnamese or Thai fish sauce
+- 1 quart homemade chicken stock
+- 4 packets powdered gelatin
+- 1 (28-ounce) can whole peeled tomatoes, preferably San Marzano
+- 3 tablespoons tomato paste
+- 1/4 cup extra-virgin olive oil
+- 1 pound ground beef chuck (about 20% fat)
+- 1 pound ground pork shoulder (about 20% fat)
+- 1 pound ground lamb shoulder (about 20% fat) (or extra pound beef)
+- Kosher salt and freshly ground black pepper
+- 4 tablespoons unsalted butter
+- 1/2 pound finely diced pancetta
+- 3 cloves garlic, minced
+- 1 large onion, finely minced (about 1 1/2 cups)
+- 2 carrots, finely chopped (about 1 cup)
+- 4 stalks celery, finely chopped (about 1 cup)
+- 4 medium cloves garlic, minced (about 4 teaspoons)
+- 1/4 cup minced fresh sage leaves
+- 1/2 cup minced fresh parsley leaves
+- 2 cups dry white or red wine
+- 2 cups whole milk
+- 2 bay leaves
+- 1/4 cup heavy cream
+- 3 ounces finely grated Parmesan cheese
+- 1 to 2 tablespoons Vietnamese or Thai fish sauce
 
 ##Directions
 
@@ -33,7 +34,7 @@ Kosher salt and freshly ground black pepper
 
 2. Heat olive oil in a large Dutch oven over high heat until shimmering. Add ground meat, season with salt and pepper and cook, stirring and breaking up with a wooden spoon or potato masher until no longer pink, about 10 minutes.
 
-3. Meanwhile, heat butter and pancetta in a large skillet over medium-high heat and cook, stirring frequently, until fat has mostly rendered but butter and pancetta have not started to brown, about 8 minutes. Add onions, carrots, celery, garlic, sage, and half of parsley and cook, stirring and tossing until vegetables are completely softened but not browned, about 8 minutes. Add tomato paste and cook for one minute. Transfer mixture to Dutch oven with meat mixture.
+3. Meanwhile, heat butter and pancetta in a large skillet over medium-high heat and cook, stirring frequently, until fat has mostly rendered but butter and pancetta have not started to brown, about 8 minutes. Add onions, carrots, celery, garlic, sage, and half of parsley and cook, stirring and tossing until vegetables are completely softened but not browned, about 8 minutes. Add garlic and tomato paste and cook for one minute. Transfer mixture to Dutch oven with meat mixture.
 
 4. Return Dutch oven to high heat and cook, stirring, until most of the liquid has evaporated from the pan, about 10 minutes longer.
 
