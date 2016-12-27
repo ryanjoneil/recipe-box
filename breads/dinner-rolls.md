@@ -20,4 +20,4 @@ Makes 3 rolls
 
 4. Place 3 dough balls per roll in a muffin tin. Let rise again until nearly double in bulk.
 
-5. Bake at 350 for 17 minutes. Brush with butter.
+5. Bake at 350 for 20 minutes. Brush with butter.
