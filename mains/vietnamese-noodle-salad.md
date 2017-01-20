@@ -26,10 +26,10 @@ http://cooking.nytimes.com/recipes/1016865-vietnamese-lemon-grass-beef-and-noodl
 - 1 medium carrot, cut in 3-inch lengths, julienned (about 1 cup)
 - 1 small cucumber, 3-inch lengths, julienned (about 1 cup)
 - 1 3-inch length daikon radish, julienned (about 1 cup)
- Mixture of cilantro sprigs, mint leaves, basil leaves and small perilla (shiso) leaves, about 3 cups
+- Mixture of cilantro sprigs, mint leaves, basil leaves and small perilla (shiso) leaves, about 3 cups
 - 4 tablespoons crushed roasted peanuts
 - 4 tablespoons fried shallots, available in Asian groceries (or make your own using this recipe)
- Small handful bean sprouts or sunflower sprouts (optional)
+- Small handful bean sprouts or sunflower sprouts (optional)
 
 ##Directions
 
