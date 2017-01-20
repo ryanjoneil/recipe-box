@@ -6,14 +6,14 @@ https://smittenkitchen.com/2013/02/italian-stuffed-cabbage/
 - 1 large savoy cabbage
 - 7-ounce (200-gram) hunk of bread (see above), crusts cut away, torn into small scraps (you’ll have about 3 loose cups of scraps)
 - 2/3 cup (approximately 150 ml) whole milk
-- 14 ounces (400 grams) or approximately 4 plain pork sausages (I used sweet — i.e. non-spicy — Italian), casings removed
+- 14 ounces (400 grams) or approximately 4 sweet Italian pork sausages, casings removed
 - 1 small sprig of sage, finely chopped
 - 1 small sprig of rosemary, finely chopped
 - 2 tablespoons grated parmesan
 - Salt and freshly ground black pepper, to taste
 - 1 28-ounce can peeled plum tomatoes
 - 2 tablespoons (30 ml) olive oil
-v1 clove garlic, peeled and minced
+- 1 clove garlic, peeled and minced
 
 ##Directions
 
