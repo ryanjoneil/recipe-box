@@ -1,6 +1,6 @@
-#Pumpkin Macaroni and Cheese
+# Pumpkin Macaroni and Cheese
 
-##Ingredients
+## Ingredients
 
 - 1/2 lbs shell pasta
 - 3 tablespoons butter
@@ -16,7 +16,7 @@
 - 1/4 cup finely grated parmesan
 - salt, pepper, cinnamon, nutmeg
 
-##Directions
+## Directions
 
 1. Boil pasta until al dente but cooked. Drain.
 

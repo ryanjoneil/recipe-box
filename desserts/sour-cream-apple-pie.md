@@ -1,7 +1,7 @@
-#Dutch Apple Pie with Sour Cream Custard
+# Dutch Apple Pie with Sour Cream Custard
 http://www.lottieanddoof.com/2013/08/hoosier-mama/
 
-##Ingredients
+## Ingredients
 
 - 1 single-crust blind baked pie dough shell
 - 2 cups apples, peeled, cored, and chopped into 1/2-inch pieces (I like Granny Smith)
@@ -12,7 +12,7 @@ http://www.lottieanddoof.com/2013/08/hoosier-mama/
 - 1 large egg
 - 1 teaspoon vanilla paste (feel free to sub extract)
 
-####Walnut Streusel
+#### Walnut Streusel
 - 1 cup all-purpose flour
 - 3/4 cup finely chopped walnuts
 - 1/2 cup granulated sugar
@@ -21,14 +21,14 @@ http://www.lottieanddoof.com/2013/08/hoosier-mama/
 - pinch kosher salt
 - 6 tablespoons unsalted butter, melted
 
-##Directions
+## Directions
 
-####Walnut Streusel
+#### Walnut Streusel
 1. Combine the flour, walnuts, granulated sugar, brown sugar, cinnamon, and salt in a medium bowl.
 
 2. Pour in the melted butter and mix with your fingers (or a fork) until the mixture resembles coarse meal.
 
-####Pie
+#### Pie
 1. Preheat the oven to 350°F.
 
 2. Spread the apple pieces over the bottom of the pie shell. Place on a baking sheet and set aside.

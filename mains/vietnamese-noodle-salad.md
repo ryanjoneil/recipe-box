@@ -1,9 +1,9 @@
-#Vietnamese Lemon Grass Beef and Noodle Salad
+# Vietnamese Lemon Grass Beef and Noodle Salad
 http://cooking.nytimes.com/recipes/1016865-vietnamese-lemon-grass-beef-and-noodle-salad
 
-##Ingredients
+## Ingredients
 
-####Dressing
+#### Dressing
 - 4 tablespoons Demerara or granulated light brown sugar
 - 3 tablespoons rice vinegar
 - 4 tablespoons lime juice, from 2 large limes
@@ -13,7 +13,7 @@ http://cooking.nytimes.com/recipes/1016865-vietnamese-lemon-grass-beef-and-noodl
 - 1 medium-hot red chile, such as Fresno, chopped
 - 1 hot red or green bird chile, thinly sliced
 
-####Salad
+#### Salad
 - 12 ounces rice vermicelli noodles
 - 1 pound beef skirt steak or sirloin, in thin 1/4-inch slices
 - 2 tablespoons best quality fish sauce, such as Red Boat
@@ -31,7 +31,7 @@ http://cooking.nytimes.com/recipes/1016865-vietnamese-lemon-grass-beef-and-noodl
 - 4 tablespoons fried shallots, available in Asian groceries (or make your own using this recipe)
 - Small handful bean sprouts or sunflower sprouts (optional)
 
-##Directions
+## Directions
 
 1. In a small bowl combine sugar, rice vinegar and lime juice and stir to dissolve. Add fish sauce, garlic, ginger, chiles and 1/2 cup water and stir together. Let sit for 15 minutes for flavors to meld. (May be prepared a day ahead and refrigerated.)
 

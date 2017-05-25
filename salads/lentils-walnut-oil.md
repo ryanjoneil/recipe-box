@@ -1,9 +1,9 @@
-#Lentil Salad With Walnut Oil
+# Lentil Salad With Walnut Oil
 http://cooking.nytimes.com/recipes/1014109-lentil-salad-with-walnut-oil
 
-##Ingredients
+## Ingredients
 
-####Lentils
+#### Lentils
 - 2 cups green Le Puy lentils, washed and picked over
 - 2 large garlic cloves, crushed
 - 1 bay leaf
@@ -15,7 +15,7 @@ http://cooking.nytimes.com/recipes/1014109-lentil-salad-with-walnut-oil
 - 1/4 cup chopped flat-leaf parsley
 - 1/2 cup broken walnuts
 
-####Dressing
+#### Dressing
 - 2 tablespoons red wine vinegar or sherry vinegar
 - 1 tablespoon Dijon mustard
 - 1 shallot, minced, or 1 garlic clove, minced
@@ -23,7 +23,7 @@ http://cooking.nytimes.com/recipes/1014109-lentil-salad-with-walnut-oil
 - Salt
 - Freshly ground pepper
 
-##Directions
+## Directions
 
 1. Combine the lentils, garlic, bay leaf, onion, carrot and water in a large saucepan or Dutch oven. Bring to a boil. Add salt to taste (1 to 2 teaspoons), reduce the heat to low, cover and simmer 35 to 45 minutes until the lentils are tender. Remove from the heat. and discard the onion, carrot, garlic cloves and bay leaf. Drain through a strainer set over a bowl.
 

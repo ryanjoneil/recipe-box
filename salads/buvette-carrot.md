@@ -1,7 +1,7 @@
-#Buvette's Carrot Salad
+# Buvette's Carrot Salad
 http://www.bonappetit.com/recipe/carrot-salad-with-coriander-vinaigrette-and-pistachios
 
-##Ingredients
+## Ingredients
 
 - 1/4 cup unsalted, shelled raw pistachios
 - 3/4 teaspoon coriander seeds
@@ -13,7 +13,7 @@ http://www.bonappetit.com/recipe/carrot-salad-with-coriander-vinaigrette-and-pis
 - 1 pound carrots, peeled, julienned or coarsely grated
 - 1 cup fresh cilantro leaves with tender stems
 
-##Directions
+## Directions
 
 1. Preheat oven to 350°. Toast pistachios on a rimmed baking sheet, tossing occasionally, until golden brown, 6–8 minutes. Let cool; coarsely chop.
 

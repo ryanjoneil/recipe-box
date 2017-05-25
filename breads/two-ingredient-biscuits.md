@@ -1,14 +1,14 @@
-#Two-Ingredient Buttermilk Biscuits
+# Two-Ingredient Buttermilk Biscuits
 http://gardenandgun.com/blog/easiest-biscuits-youll-ever-make
 
-##Ingredients
+## Ingredients
 
 - 3 cups self-rising flour
 - 1 1/2 cups high-quality whole buttermilk
 - Melted butter, for topping
 - Coarse salt, for topping (optional)
 
-##Directions
+## Directions
 
 1. Preheat the oven to 425°. 
 

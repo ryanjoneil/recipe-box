@@ -1,20 +1,20 @@
-#Bill Smith's Atlantic Beach Pie
+# Bill Smith's Atlantic Beach Pie
 https://food52.com/recipes/29939-bill-smith-s-atlantic-beach-pie
 
-##Ingredients
+## Ingredients
 
-####For the crust:
+#### For the crust:
 - 1 1/2 sleeves of saltine crackers (about 6 ounces or 60 crackers) 
 - 1/2 cup softened unsalted butter 
 - 3 tablespoons sugar 
 
-####For the filling:
+#### For the filling:
 - One 14-ounce can sweetened condensed milk 
 - 4 egg yolks 
 - 1/2 cup lemon or lime juice or a mix of the two 
 - Fresh whipped cream, for garnish 
 
-##Directions
+## Directions
 
 1. Preheat oven to 350° F.
 

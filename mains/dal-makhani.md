@@ -1,4 +1,4 @@
-#Dal Makhani
+# Dal Makhani
 http://iamafoodblog.com/dishooms-black-dal-and-garlic-naan/
 
 ## Ingredients
@@ -25,7 +25,7 @@ http://iamafoodblog.com/dishooms-black-dal-and-garlic-naan/
 - salt, to taste
 - cilantro and yogurt, to garnish
 
-##Directions
+## Directions
 
 1. Soak the lentils in plenty of cold water overnight. The next day, rinse and drain well. Place in a large pot and cover with cold water. Bring to a hard boil for 5-10 minutes, skimming if needed. Reduce the heat and simmer, stirring occasionally, until lentils are very soft but still hold their shape, about 40 minutes to 1 hour. If needed, top the pot up with water. Drain and set aside.
 

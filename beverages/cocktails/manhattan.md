@@ -1,23 +1,23 @@
-#Manhattan
+# Manhattan
 
-##Ingredients
+## Ingredients
 
 - 2 parts bourbon
 - 1 part sweet red vermouth
 - 2 dashes Angostura
 
-##Directions
+## Directions
 
 1. Combine ingredients and stir on ice until cold.
 
 2. Strain into a chilled glass and garnish.
 
-##Alternatives
+## Alternatives
 
-###Brooklyn
+### Brooklyn
 
 Substitute rye for bourbon.
 
-###Perfect Manhattan
+### Perfect Manhattan
 
 Use equal parts sweet red and dry white vermouth.

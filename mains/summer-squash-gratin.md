@@ -1,9 +1,9 @@
-#Summer Squash Gratin with Salsa Verde
+# Summer Squash Gratin with Salsa Verde
 https://food52.com/recipes/12430-summer-squash-gratin-with-salsa-verde-and-gruyere
 
-##Ingredients
+## Ingredients
 
-####Gratin
+#### Gratin
 - 2 pounds summer squash
 - 1 1/2	cups fresh coarse breadcrumbs
 - 3	tablespoons unsalted butter
@@ -14,7 +14,7 @@ https://food52.com/recipes/12430-summer-squash-gratin-with-salsa-verde-and-gruye
 - 1	cup grated Gruyere cheese
 - Kosher salt and freshly ground black pepper
 
-####Salsa verde
+#### Salsa verde
 - 1 teaspoon fresh marjoram or oregano leaves (1/2 teaspoon dried)
 - 1/4 cup coarsely chopped mint
 - 1	cup coarsely chopped flat-leaf parsley
@@ -25,7 +25,7 @@ https://food52.com/recipes/12430-summer-squash-gratin-with-salsa-verde-and-gruye
 - 1/2 lemon, for juicing
 - Freshly ground black pepper
 
-##Directions
+## Directions
 
 1. Make the salsa verde. Using a mortar and pestle (or a food processor, I won't tell anyone), pound the herbs to a paste. You may have to do this in batches. Work in some of the olive oil, and transfer the mixture to a bowl. Pound the garlic and anchovy, and add them to the herbs. 
 

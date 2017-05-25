@@ -1,7 +1,7 @@
-#Bolognese Sauce 
+# Bolognese Sauce 
 http://www.seriouseats.com/recipes/2014/12/the-best-slow-cooked-bolognese-sauce-recipe.html
 
-##Ingredients
+## Ingredients
 
 - 1 quart homemade chicken stock
 - 4 packets powdered gelatin
@@ -27,7 +27,7 @@ http://www.seriouseats.com/recipes/2014/12/the-best-slow-cooked-bolognese-sauce-
 - 3 ounces finely grated Parmesan cheese
 - 1 to 2 tablespoons Vietnamese or Thai fish sauce
 
-##Directions
+## Directions
 
 1. Place stock in a medium bowl or 1 quart liquid measure and sprinkle with gelatin. Set aside. Puree tomatoes in the can using an immersion blender or transfer to the bowl of a regular blender and puree until smooth.
 

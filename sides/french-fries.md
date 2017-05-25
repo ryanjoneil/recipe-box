@@ -1,14 +1,14 @@
-#Thin and Crispy French Fries
+# Thin and Crispy French Fries
 http://www.seriouseats.com/recipes/2010/05/perfect-french-fries-recipe.html
 
-##Ingredients
+## Ingredients
 
 - 2 pounds russet potatoes (about 4 large), peeled and cut into 1/4-inch by 1/4-inch fries (keep potatoes stored in a bowl of water)
 - 2 tablespoons distilled white vinegar
 - Kosher salt
 - 2 quarts peanut oil
 
-##Directions
+## Directions
 
 1. Place potatoes and vinegar in saucepan and add 2 quarts of water and 2 tablespoons of salt. Bring to a boil over high heat. Boil for 10 minutes. Potatoes should be fully tender, but not falling apart. Drain and spread on paper towel-lined rimmed baking sheet. Allow to dry for five minutes.
 

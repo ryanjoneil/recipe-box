@@ -1,7 +1,7 @@
-#Italian Stuffed Cabbage
+# Italian Stuffed Cabbage
 https://smittenkitchen.com/2013/02/italian-stuffed-cabbage/
 
-##Ingredients
+## Ingredients
 
 - 1 large savoy cabbage
 - 7-ounce (200-gram) hunk of bread (see above), crusts cut away, torn into small scraps (you’ll have about 3 loose cups of scraps)
@@ -15,7 +15,7 @@ https://smittenkitchen.com/2013/02/italian-stuffed-cabbage/
 - 2 tablespoons (30 ml) olive oil
 - 1 clove garlic, peeled and minced
 
-##Directions
+## Directions
 
 1. Prepare cabbage: Bring a large pot of salted water to boil. Discard any messy or broken outer cabbage leaves and carefully peel 12 nice, large leaves. (I think the cabbage can tell if you’re in a rush, and will tear more easily. Work carefully. That said, a torn leaf will hardly ruin the dish.) Blanch leaves for about 30 seconds to 1 minute (you can do a few at at time), until wilted, and spread out on towels so that they dry and cool.
 
@@ -25,6 +25,6 @@ https://smittenkitchen.com/2013/02/italian-stuffed-cabbage/
 
 4. Make the sauce: To prepare your tomatoes, either break them up with your hands (for bigger chunks), run them through a food mill or roughly chop them right in their can with scissors (what I did here). In a heavy saute pan with a lid or a medium (5 to 6-quart) Dutch oven, heat olive oil over medium heat. Add the garlic and saute for about 30 seconds (just until golden, not a moment longer) then add the tomatoes, bringing the sauce to a gently boil. Season with salt if needed. Add cabbage packages, arranging them carefully in the pan so they all fit, cover the pot and gently simmer them for 25 minutes. Remove the toothpicks and carefully turn the rolls over, cooking them for another 25. Remove the lid and simmer for another 10 minutes to cook off some of the wetness. They’re all cooked now, but if you can rest them for another 15 minutes before eating them, the flavors settle and they become even better.
 
-##Serving Suggestions
+## Serving Suggestions
 - Mashed potatoes
 

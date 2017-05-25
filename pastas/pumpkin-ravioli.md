@@ -1,7 +1,7 @@
-#Pumpkin Ravioli
+# Pumpkin Ravioli
 http://www.mariobatali.com/recipes/pumpkin-lune-with-butter-and-sage/
 
-##Ingredients
+## Ingredients
 - 1 small kabocha or butternut squash (about 1 pound)
 - 2 tablespoons extra virgin olive oil
 - 1/2 cup grated Parmigiano-Reggiano, plus more for serving
@@ -10,7 +10,7 @@ http://www.mariobatali.com/recipes/pumpkin-lune-with-butter-and-sage/
 - Kosher salt and freshly ground black pepper, to taste
 - 1/2 half-batch of fresh pasta
 
-##Directions
+## Directions
 
 1. Cut the squash in half, remove the seeds, drizzle with olive oil, and place on a baking sheet. Roast for 25 to 35 minutes or until the squash is very soft. Remove from the oven, let cool, then scoop out the flesh from the skin.
  
@@ -19,5 +19,5 @@ Roll out the pasta dough to the thinnest setting on a pasta machine. Using a bis
  
 3. Bring 6 quarts of water to a boil and add 2 tablespoons of salt. Drop the lune in the boiling water and cook for 2 minutes.
 
-##Serving Suggestions
+## Serving Suggestions
 - Brown butter and sage sauce
