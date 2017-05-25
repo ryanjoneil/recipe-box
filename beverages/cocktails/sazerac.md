@@ -1,7 +1,7 @@
-#Sazerac
+# Sazerac
 Source: Tabar Inn
 
-##Ingredients
+## Ingredients
 
 - 1 oz rye or bourbon
 - 1 oz armagnac or cognac
@@ -10,7 +10,7 @@ Source: Tabar Inn
 - 1/2 tsp simple syrup
 - absinthe
 
-##Directions
+## Directions
 
 1. Combine ingredients, minus absinthe, and stir on ice until cold.
 

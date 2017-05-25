@@ -1,7 +1,7 @@
-#Chocolate Peanut Butter Cake
+# Chocolate Peanut Butter Cake
 https://smittenkitchen.com/2008/08/chocolate-peanut-butter-cake/
 
-##Ingredients
+## Ingredients
 
 - 2 cups (250 grams) all-purpose flour
 - 2 1/2 cups (500 grams) sugar
@@ -15,31 +15,31 @@ https://smittenkitchen.com/2008/08/chocolate-peanut-butter-cake/
 - 1 teaspoon vanilla extract
 - 2 large eggs
 
-####Peanut Butter Frosting
+#### Peanut Butter Frosting
 - 10 ounces (285 grams) cream cheese, at room temperature
 - 1 stick (115 grams, 4 ounces or 1/2 cup) unsalted butter, at room temperature
 - 5 cups (600 grams) confectioners’ sugar, sifted
 - 2/3 cup (170 grams) smooth peanut butter, preferably a commercial brand (because oil doesn’t separate out)
 
-####Chocolate-Peanut Butter Glaze (optional)
+#### Chocolate-Peanut Butter Glaze (optional)
 - 8 ounces (225 grams) semisweet chocolate, coarsely chopped
 - 3 tablespoons (50 grams) smooth peanut butter
 - 2 tablespoons (40 grams) light corn syrup, honey or golden syrup
 - 1/2 cup (120 ml) half-and-half
 
-##Directions
-####Peanut Butter Frosting
+## Directions
+#### Peanut Butter Frosting
 
 1. In a large bowl with an electric mixer, beat the cream cheese and butter until light and fluffy. Gradually add the confectioners’ sugar 1 cup at a time, mixing thoroughly after each addition and scraping down the sides of the bowl often. Continue to beat on medium speed until light and fluffy, 3 to 4 minutes.
 
 2. Add the peanut butter and beat until thoroughly blended.
 
-####Chocolate-Peanut Butter Glaze (optional)
+#### Chocolate-Peanut Butter Glaze (optional)
 1. In the top of a double boiler or in a bowl set over simmering water, combine the chocolate, peanut butter, and corn syrup. Cook, whisking often, until the chocolate is melted and the mixture is smooth.
 
 2. Remove from the heat and whisk in the half-and-half, beating until smooth. Use while still warm.
 
-####Cake
+#### Cake
 
 1. Preheat the oven to 350 degrees F. Butter the bottoms and sides of three 8-inch round cakepans. Line the bottom of each pan with a round of parchment or waxed paper and butter the paper.
 

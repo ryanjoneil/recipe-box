@@ -1,7 +1,7 @@
-#Brussels Sprouts Salad a la M. Wells
+# Brussels Sprouts Salad a la M. Wells
 https://food52.com/recipes/8647-brussels-sprouts-salad-a-la-m-wells
 
-##Ingredients
+## Ingredients
 
 - 1/4 pound brussels sprouts, trimmed and shaved on a mandoline
 - 1 cup finely chopped baby arugula
@@ -15,6 +15,6 @@ https://food52.com/recipes/8647-brussels-sprouts-salad-a-la-m-wells
 - Pinch piment d'espelette, or to taste
 - Half a lemon, to taste
 
-##Directions
+## Directions
 
 1. In a large mixing bowl, combine the brussels sprouts, arugula, celery, speck, cranberries, walnuts, and cheese. Season with salt and pepper. Pour in the olive oil and add the piment d'espelette. Squeeze on about 1 tablespoon lemon juice. Gently fold the salad together, over and over, until it is fully blended. Taste and adjust seasoning.

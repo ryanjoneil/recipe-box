@@ -1,6 +1,6 @@
-#Old Fashioned
+# Old Fashioned
 
-##Ingredients
+## Ingredients
 
 - 2 oz bourbon or rye
 - 1/2 tsp raw sugar simple syrup
@@ -9,7 +9,7 @@
 - splash water
 - large ice cube
 
-##Directions
+## Directions
 
 1. Put simple syrup in glass. Add dashes of bitters and splash water. Swirl around to mix.
 

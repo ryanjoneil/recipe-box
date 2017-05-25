@@ -1,7 +1,7 @@
-#Cream of Tomato Soup
+# Cream of Tomato Soup
 https://smittenkitchen.com/2006/11/come-on-thunder/
 
-##Ingredients
+## Ingredients
 
 - 2 (28-ounce) cans whole tomatoes packed in juice, drained, 3 cups juice reserved
 - 1 1/2 tablespoons dark brown sugar
@@ -15,7 +15,7 @@ https://smittenkitchen.com/2006/11/come-on-thunder/
 - 2 tablespoons brandy or dry sherry
 - Salt and cayenne pepper
 
-##Directions
+## Directions
 
 1. Adjust oven rack to upper-middle position and heat oven to 450°F. Lined rimmed baking sheet with foil. With fingers, carefully open whole tomatoes over strainer set in bowl and push out seeds, allowing juices to fall through strainer into bowl. Spread seeded tomatoes in single layer on foil. Sprinkle evenly with brown sugar. Bake until all liquid has evaporated and tomatoes begin to color, about 30 minutes. Let tomatoes cool slightly, then peel them off foil; transfer to small bowl and set aside.
 

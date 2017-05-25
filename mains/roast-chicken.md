@@ -1,15 +1,15 @@
-#Roast Chicken
+# Roast Chicken
 Inspired by:
 America's Test Kitchen (not online)
 http://www.seriouseats.com/recipes/2010/05/butterflied-roasted-chicken-with-quick-jus-recipe.html
 
-##Ingredients
+## Ingredients
 
 - 3 to 4 pound chicken
 - 1 1/4 teaspoon kosher salt per pound of chicken
 - Fresh herbs
 
-##Directions
+## Directions
 
 1. At least eight hours before the chicken needs to be cooked, spatchcock it by cutting down both sides of the spine, removing it, and flattening the breast bone.
 

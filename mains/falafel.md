@@ -1,7 +1,7 @@
-#Easy, Herb-Packed Falafel
+# Easy, Herb-Packed Falafel
 http://www.seriouseats.com/recipes/2016/03/the-food-lab-vegan-experience-best-homemade-falafel-recipe.html
 
-##Ingredients
+## Ingredients
 
 - 1/2 pound dried chickpeas (1 generous cup; 225g)
 - 2 ounces picked fresh cilantro, parsley, or mint leaves, or preferably a mixture of all three (about 2 cups; 55g)
@@ -13,7 +13,7 @@ http://www.seriouseats.com/recipes/2016/03/the-food-lab-vegan-experience-best-ho
 - 2 to 3 cups (480 to 720ml) vegetable oil, for frying
 - Tahini sauce and/or hummus, for serving
 
-##Directions
+## Directions
 
 1. Rinse chickpeas and place in a large bowl. Cover with cold water, adding enough to allow the chickpeas to at least triple in volume. Cover and let stand at room temperature overnight. The next day, drain, rinse, and carefully dry chickpeas in a salad spinner.
 

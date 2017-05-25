@@ -1,8 +1,8 @@
-#Dinner Rolls
+# Dinner Rolls
 Source: King Arthur Flour  
 Makes 3 rolls
 
-##Ingredients
+## Ingredients
 - 90 g flour
 - 1/2 tsp instant yeast
 - rounded 1/4 tsp salt
@@ -11,7 +11,7 @@ Makes 3 rolls
 - 3/8 oz potato flour
 - 2 1/4 oz warm milk
 
-##Directions
+## Directions
 1. Combine ingredients and knead with dough hook until smooth.
 
 2. Cover and let double in bulk.

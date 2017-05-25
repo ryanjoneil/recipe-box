@@ -1,9 +1,9 @@
-#Chicken Noodle Soup
+# Chicken Noodle Soup
 https://smittenkitchen.com/2015/01/my-ultimate-chicken-noodle-soup/
 
-##Ingredients
+## Ingredients
 
-####Broth
+#### Broth
 - 2 medium-large yellow onions, unpeeled, halved or 1 large onion plus 1 large leek, cleaned and cut lengthwise
 - 2 garlic cloves, peeled and smashed a little
 - 1 large carrot
@@ -17,7 +17,7 @@ https://smittenkitchen.com/2015/01/my-ultimate-chicken-noodle-soup/
 - 1 tablespoon tomato paste
 - 1 bay leaf
 
-####To Finish
+#### To Finish
 - 3 bone-in skin-on chicken breast halves
 - 2 large carrots, peeled and diced or 1 large carrot and 1 large parsnip, diced
 - 1 large leek, trimmed and sliced into 1/2-inch segments
@@ -25,7 +25,7 @@ https://smittenkitchen.com/2015/01/my-ultimate-chicken-noodle-soup/
 - 9 ounces thin egg noodles or soup noodles of your choice
 - 2 tablespoons finely-chopped flat-leaf parsley
 
-##Directions
+## Directions
 
 Make the broth:
 

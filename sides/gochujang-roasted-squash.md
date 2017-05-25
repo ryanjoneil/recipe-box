@@ -1,7 +1,7 @@
-#Gochujang and Sesame Roasted Winter Squash
+# Gochujang and Sesame Roasted Winter Squash
 http://www.bonappetit.com/recipe/gochujang-and-sesame-roasted-winter-squash
 
-##Ingredients
+## Ingredients
 
 - 2 tablespoons sesame seeds
 - 2 tablespoons vegetable oil
@@ -11,7 +11,7 @@ http://www.bonappetit.com/recipe/gochujang-and-sesame-roasted-winter-squash
 - Scallions, thinly sliced
 - Flaky sea salt (such as Maldon)
 
-##Directions
+## Directions
 
 1. Place racks in upper and lower thirds of oven; preheat to 425°. 
 

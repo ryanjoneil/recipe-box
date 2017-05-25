@@ -1,9 +1,9 @@
-#Kale and Quinoa Salad with Ricotta Salata
+# Kale and Quinoa Salad with Ricotta Salata
 https://smittenkitchen.com/2014/03/kale-and-quinoa-salad-with-ricotta-salata/
 
-##Ingredients
+## Ingredients
 
-####Salad
+#### Salad
 - 1/2 cup uncooked quinoa (or 1 1/2 cups cooked)
 - 8 ounces Black Kale, also known as Cavolo Nero, or Lacinato, Dinosaur, or Tuscan Kale
 - 1/2 cup slivered almonds, very well toasted and cooled
@@ -13,7 +13,7 @@ https://smittenkitchen.com/2014/03/kale-and-quinoa-salad-with-ricotta-salata/
 - 2 ounces ricotta salata, crumbled or finely grated
 - Few gratings of fresh lemon zest
 
-####Dressing
+#### Dressing
 - 3 tablespoons olive oil
 - 1 1/2 tablespoons white wine vinegar
 - 2 teaspoons smooth Dijon mustard
@@ -21,7 +21,7 @@ https://smittenkitchen.com/2014/03/kale-and-quinoa-salad-with-ricotta-salata/
 - Just shy of 1 teaspoon honey
 - Salt and freshly ground black pepper to taste
 
-##Directions
+## Directions
 
 1. Rinse quinoa well in a small colander. This is essential to remove bitterness. Place quinoa and 1 1/2 cups water in a small saucepan and bring to a simmer with a couple pinches of salt. Simmer at a very low temperature for 15 to 20 minutes, until tender. Drain any un-absorbed liquid from cooked quinoa. Spread quinoa on a plate to cool quickly.
 

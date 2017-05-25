@@ -1,13 +1,13 @@
-#Bouchon's Sautéed Spinach With Garlic Confit
+# Bouchon's Sautéed Spinach With Garlic Confit
 http://www.food.com/recipe/bouchons-saut-ed-spinach-with-garlic-confit-375411
 
-##Ingredients
+## Ingredients
 
-####Garlic Confit
+#### Garlic Confit
 - 1 cup peeled garlic clove (about 45 cloves)
 - 1 cup canola oil (or enough to cover the garlic)
 
-####Spinach
+#### Spinach
 - 1 lb spinach (preferably baby spinach, or 2 10-ounce bags)
 - 3 tablespoons unsalted butter
 - 1⁄4 cup shallot, minced
@@ -15,9 +15,9 @@ http://www.food.com/recipe/bouchons-saut-ed-spinach-with-garlic-confit-375411
 - kosher salt
 - fresh ground black pepper
 
-##Directions
+## Directions
 
-####Garlic Confit
+#### Garlic Confit
 
 1. Cut off and discard the root ends of the garlic cloves. Place the cloves in a small saucepan, and add enough oil to cover them by about 1 inch. None of the garlic cloves should be poking through the oil.
 
@@ -27,7 +27,7 @@ http://www.food.com/recipe/bouchons-saut-ed-spinach-with-garlic-confit-375411
 
 4. Remove the saucepan from the heat and allow the garlic to cool in the oil.
 
-####Spinach
+#### Spinach
 
 1. If using large-leaf spinach, remove the thick stems and wash the leaves. Wash the baby spinach.
 
