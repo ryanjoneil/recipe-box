@@ -7,8 +7,7 @@ makes 1 quarter sheet pan
 
 ## Ingredients
 
-- 55 g butter, at room temperature (4 tablespoons, 1/2 stick)
-- 60 g vegetable shortening (1/3 cup)
+- 115 g butter, at room temperature (8 tablespoons, 1/2 stick)
 - 250 g granulated sugar (1 1/4 cups)
 - 50 g light brown sugar (3 tablespoons, tightly packed)
 - 3 eggs
@@ -24,7 +23,7 @@ makes 1 quarter sheet pan
 
 1. heat the oven to 350°f.
 
-2. combine the butter, shortening, and sugars in the bowl of a stand mixer fitted with the paddle attachment and cream together on medium-high for 2 to 3 minutes. scrape down the sides of the bowl, add the eggs, and mix on medium-high for 2 to 3 minutes. scrape down the sides of the bowl once more.
+2. combine the butter and sugars in the bowl of a stand mixer fitted with the paddle attachment and cream together on medium-high for 2 to 3 minutes. scrape down the sides of the bowl, add the eggs, and mix on medium-high for 2 to 3 minutes. scrape down the sides of the bowl once more.
 3. on low speed, stream in the buttermilk, oil, and vanilla. increase the mixer speed to medium-high and paddle for 4 to 6 minutes, until the mixture is practically white, twice the size of your original fluffy butter-and-sugar mixture, and completely homogenous. don’t rush the process. you’re basically forcing too much liquid into an already fatty mixture that doesn’t want to make room for that liquid. there should be no streaks of fat or liquid. stop the mixer and scrape down the sides of the bowl.
 4. on very low speed, add the cake flour, baking powder, salt, and the 50 g (¼ cup) rainbow sprinkles. mix for 45 to 60 seconds, just until your batter comes together. scrape down the sides of the bowl.
 5. pam-spray a quarter sheet pan and line it with parchment, or just line the pan with a silpat. using a spatula, spread the cake batter in an even layer in the pan. sprinkle the remaining 25 g (2 tablespoons) rainbow sprinkles evenly on top of the batter.
