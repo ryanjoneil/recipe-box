@@ -3,12 +3,12 @@ http://supper.mx/recipes/spinach-gratin
 
 ## Ingredients
 
-- 6 lb (2.7kg) spinach (frozen, chopped)
-- 4 cups heavy cream (and an extra cup if needed to thin)
-- ¼ cup garlic (minced)
-- 1 stick butter
-- 1 ½ cup parmesan cheese (grated)
-- 1 cup Swiss cheese (grated)
+- 1 lb spinach (frozen, chopped)
+- 2/3 cup heavy cream (and a little more, if needed to thin)
+- 2 garlic cloves (minced)
+- 2 tablespoons butter
+- 1/4 cup parmesan cheese (grated)
+- 1/4 cup Swiss cheese (grated)
 - salt and pepper
 
 ## Directions
@@ -17,7 +17,7 @@ http://supper.mx/recipes/spinach-gratin
 
 2. Have spinach fully defrosted and wring out all excess water.
 
-3. In large stock pot, melt butter, and lightly brown garlic. Add heavy cream and bring to a slow simmer. Season with about 1 tablespoon ground black pepper and a large pinch of salt.
+3. In large stock pot, melt butter, and lightly brown garlic. Add heavy cream and bring to a slow simmer. Season with salt and pepper.
 
 4. Once cream is slightly thickened, about 5 minutes of simmering, add spinach.
 
