@@ -3,7 +3,7 @@ http://supper.mx/recipes/spinach-gratin
 
 ## Ingredients
 
-- 1 lb spinach (frozen, chopped)
+- 1 lbs spinach (frozen, chopped)
 - 2/3 cup heavy cream (and a little more, if needed to thin)
 - 2 garlic cloves (minced)
 - 2 tablespoons butter
